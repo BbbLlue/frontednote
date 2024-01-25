@@ -34,3 +34,4 @@ commits可以查看提交历史记录
 输入提交信息--提交到仓库
 ####查看提交的历史记录：git log --stat
 ![Alt text](image-8.png)
+what 怎么交上的
