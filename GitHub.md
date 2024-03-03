@@ -1,37 +1,36 @@
 https://www.bilibili.com/video/BV1e541137Tc/?spm_id_from=333.999.0.0&vd_source=1727ab3eb30ee963ca494fb1ee22bb6c
-####À­È¡ÏîÄ¿µ½±¾µØ
+#### æ‹‰å–é¡¹ç›®åˆ°æœ¬åœ°
 ![Alt text](image.png)
-Code->¸´ÖÆµØÖ·
+Code->å¤åˆ¶åœ°å€
 ![Alt text](image-1.png)
-½øÈëÏë±£´æÏîÄ¿µÄÎÄ¼ş¼Ğ->ÓÒ¼ü->git bash here
+è¿›å…¥æƒ³ä¿å­˜é¡¹ç›®çš„æ–‡ä»¶å¤¹->å³é”®->git bash here
 ![Alt text](image-2.png)
-ÊäÈë git clone µØÖ·
+è¾“å…¥ git clone åœ°å€
 **********
 ![Alt text](image-3.png)
-commits¿ÉÒÔ²é¿´Ìá½»ÀúÊ·¼ÇÂ¼
-¿´¿´readme.mdËµÃ÷ÎÄµµ£¬issuesÌÖÂÛÂÛÌ³£¬starsÊÕ²ØÊı£¬lisenceÊ¹ÓÃÖ¤Êé
-###ÕÒ¿ªÔ´ÏîÄ¿µÄÒ»Ğ©Í¾¾¶
-? https://github.com/trending/
-? https://github.com/521xueweihan/HelloGitHub
-? https://github.com/ruanyf/weekly
-? https://www.zhihu.com/column/mm-fe
-? https://github.com/explore 
-? https://changelog.com/weekly/archive
+commitså¯ä»¥æŸ¥çœ‹æäº¤å†å²è®°å½•
+çœ‹çœ‹readme.mdè¯´æ˜æ–‡æ¡£ï¼Œissuesè®¨è®ºè®ºå›ï¼Œstarsæ”¶è—æ•°ï¼Œlisenceä½¿ç”¨è¯ä¹¦
+### æ‰¾å¼€æºé¡¹ç›®çš„ä¸€äº›é€”å¾„
+1. https://github.com/trending/
+2. https://github.com/521xueweihan/HelloGitHub
+3. https://github.com/ruanyf/weekly
+4. https://www.zhihu.com/column/mm-fe
+5. https://github.com/explore 
+6. https://changelog.com/weekly/archive
 
-###ÌØÊâµÄ²éÕÒ×ÊÔ´Ğ¡¼¼ÇÉ-³£ÓÃÇ°×ººó×º 
-? ÕÒ°Ù¿Æ´óÈ« awesome xxx
-? ÕÒÀı×Ó xxx sample
-? ÕÒ¿ÕÏîÄ¿¼Ü×Ó xxx starter / xxx boilerplate 
-? ÕÒ½Ì³Ì  xxx tutorial
-#ÍêÈ«°æ½Ì³Ì
+### ç‰¹æ®Šçš„æŸ¥æ‰¾èµ„æºå°æŠ€å·§-å¸¸ç”¨å‰ç¼€åç¼€ 
+1. æ‰¾ç™¾ç§‘å¤§å…¨ awesome xxx
+2. æ‰¾ä¾‹å­ xxx sample
+3. æ‰¾ç©ºé¡¹ç›®æ¶å­ xxx starter / xxx boilerplate 
+4. æ‰¾æ•™ç¨‹  xxx tutorial
+# å®Œå…¨ç‰ˆæ•™ç¨‹
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
-####git init ³õÊ¼»¯²Ö¿â£¨initÍêÕÒ²»µ½--²é¿´Òş²Ø£©
+#### git init åˆå§‹åŒ–ä»“åº“ï¼ˆinitå®Œæ‰¾ä¸åˆ°--æŸ¥çœ‹éšè—ï¼‰
 ![ ](image-6.png)
-ÔÚ.gitËùÔÚÎÄ¼ş¼ĞÓÒ¼ü--Í¨¹ıcode´ò¿ª
-Í¼ĞÎ»¯²Ù×÷--µ½Ôİ´æÇø--+ºÅ
+åœ¨.gitæ‰€åœ¨æ–‡ä»¶å¤¹å³é”®--é€šè¿‡codeæ‰“å¼€
+å›¾å½¢åŒ–æ“ä½œ--åˆ°æš‚å­˜åŒº--+å·
 ![Alt text](image-7.png)
-ÊäÈëÌá½»ĞÅÏ¢--Ìá½»µ½²Ö¿â
-####²é¿´Ìá½»µÄÀúÊ·¼ÇÂ¼£ºgit log --stat
+è¾“å…¥æäº¤ä¿¡æ¯--æäº¤åˆ°ä»“åº“
+#### æŸ¥çœ‹æäº¤çš„å†å²è®°å½•ï¼šgit log --stat
 ![Alt text](image-8.png)
-what ÔõÃ´½»ÉÏµÄ
